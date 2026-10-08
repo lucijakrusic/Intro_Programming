@@ -16,7 +16,7 @@ Clone the repository from GitHub:
 git clone https://github.com/lucijakrusic/Intro_Programming.git
 ```
 
-Then change into `IP23` directory and start the Jupyter server:
+Then change into `Intro_Programming` directory and start the Jupyter server:
 
 ```bash
 cd Intro_Programming
