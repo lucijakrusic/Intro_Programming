@@ -13,13 +13,13 @@ To use the notebooks make sure you have installed:
 Clone the repository from GitHub:
 
 ```bash
-git clone https://github.com/lucijakrusic/IP23.git
+git clone https://github.com/lucijakrusic/Intro_Programming.git
 ```
 
 Then change into `IP23` directory and start the Jupyter server:
 
 ```bash
-cd IP23
+cd Intro_Programming
 ```
 
 ```bash
@@ -32,7 +32,7 @@ or, if you have installed jupyterlab:
 jupyter-lab
 ```
 
-This will bring up your browser and will show you the contents of the `IP23` directory.
+This will bring up your browser and will show you the contents of the `Intro_Programming` directory.
 
 
 
